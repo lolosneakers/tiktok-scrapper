@@ -2,7 +2,7 @@
 
 Put tiktok username in *usernames.txt* and run node ```index.js```
 
-Then data go to ./datatiktok separate with different json file.
+Then data go to ./datatiktok separate with different json file. (You have an exemple in ./datatiktok folder).
 
 --------
 
